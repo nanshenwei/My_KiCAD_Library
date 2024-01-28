@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GD32F303RCT6
+D MC 32bit 3,3V 256kB Flash 120Mhz LQFP64
+K
+F https://www.gigadevice.com/datasheet/gd32f303xxxx-datasheet/
+$ENDCMP
+#
+#End Doc Library

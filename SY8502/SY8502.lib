@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SY8502
+#/16504371/423314/2.49/9/3/Integrated Circuit
+DEF SY8502 IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "SY8502" 850 200 50 H V L CNN
+F2 "SOIC127P600X170-9N" 850 100 50 H I L CNN
+F3 "https://datasheet.lcsc.com/lcsc/1809231105_Silergy-Corp-SY8502FCC_C87752.pdf" 850 0 50 H I L CNN
+F4 "High Efficiency, 1.2A Continuous, 1.8A Peak, 85V Input Synchronous Step Down Regulator" 850 -100 50 H I L CNN "Description"
+F5 "1.7" 850 -200 50 H I L CNN "Height"
+F6 "Silergy" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SY8502" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X NC 1 0 0 200 R 50 50 0 0 N
+X IN 2 0 -100 200 R 50 50 0 0 W
+X EN 3 0 -200 200 R 50 50 0 0 I
+X RON 4 0 -300 200 R 50 50 0 0 P
+X GND_PAD 9 500 -1100 200 U 50 50 0 0 W
+X LX 8 1000 0 200 L 50 50 0 0 P
+X BS 7 1000 -100 200 L 50 50 0 0 P
+X VCC 6 1000 -200 200 L 50 50 0 0 W
+X FB 5 1000 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -900 200 -900 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LM5146RGYR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-08-04-12:19:18)
+    (mountForm default
+        (footprintRef "LM5146RGYR")
+        (spec "System")
+    )
+)

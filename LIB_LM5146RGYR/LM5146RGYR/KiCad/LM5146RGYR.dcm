@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM5146RGYR
+D Buck Regulator Positive Output Step-Down  DC-DC Controller IC 20-VQFN (3.5x4.5)
+K
+F https://www.ti.com/lit/ds/symlink/lm5146.pdf?ts=1628013058760
+$ENDCMP
+#
+#End Doc Library
