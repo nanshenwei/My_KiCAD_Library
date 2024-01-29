@@ -1,2 +1,2 @@
-# My_KiCAD_Library
+# RLX_KiCAD_Library
  
