@@ -1,9 +1,0 @@
-Manufacturer=GigaDevice Semiconductor (HK) Limited
-PartNumber=GD32F303RCT6
-PartCategory=Integrated Circuit
-PackageCategory=Quad Flat Packages
-PinCount=64
-Version=1.1
-Released=2022-05-18 04:50:34
-Downloaded=2023-01-04 05:12:13
-3D=Y
